@@ -9,11 +9,6 @@ This intelligent system enables a seamless and personalized ordering experience,
 
 Whether you're fueling your body with wholesome ingredients or indulging in a guilt-free treat, we invite you to join us on a journey toward *better eating habits*. 
 
----
-
-## 🎓 Project Exhibition
-This project was proudly showcased at *VIT Bhopal* as part of our academic exhibition. Our team of *five passionate members* worked collaboratively on every aspect of the platform to make it a success. 
-
 
 ---
 
