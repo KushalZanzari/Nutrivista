@@ -71,34 +71,25 @@ These gaps hinder restaurants from meeting *customer expectations, attracting ne
 
 ## 🚀 Installation
 1. Clone the repository:
-   bash
-   git clone https://github.com/KushalZanzari/nutrivista.git
-   
+   ```bash
+   git clone https://github.com/jayesh3103/NutriVista.git
+   ```
 2. Navigate to the project directory:
-   bash
+   ```bash
    cd NutriVista
-   
+   ```
 3. Install dependencies:
-   bash
+   ```bash
    npm install
-   
+   ```
 4. Run the application:
-   bash
+   ```bash
    npm start
-   
+   ```
 5. Access the platform locally at:
-   
+   ```
    http://localhost:3000
-   
-
----
-
-## 🎥 Demo Videos
-1. *Overview of the Platform*:
-   [🌟 Watch Platform Overview](./assets/Video.mp4)
-
-2. *AI Chatbot in Action*:
-   [🤖 Watch Chatbot Demo](./assets/Video1.mp4)
+   ```
 
 ---
 
