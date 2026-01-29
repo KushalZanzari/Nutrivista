@@ -67,7 +67,7 @@ These gaps hinder restaurants from meeting *customer expectations, attracting ne
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jayesh3103/NutriVista.git
+   git clone https://github.com/KushalZanzari/Nutrivista.git
    ```
 2. Navigate to the project directory:
    ```bash
